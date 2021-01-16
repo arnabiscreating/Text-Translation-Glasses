@@ -16,5 +16,5 @@ After all this IoT part kicks in as the actual hardware takes care of all the op
 perform in small computer and can be wear as regular glasses.     
 
 
--------------------------------------------|| Project Updates ||----------------------------------------------
-
+-------------------------------------------|| Project Updates ||-----------------------------------------------  
+Tessearact-OCR (Output for a clean image) -  
