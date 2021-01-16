@@ -12,7 +12,7 @@ project it is used to capture and modify real-time text from external camera. Th
 is then processed by Tesseract-OCR to give output as coputer generated text.  
 for actual Translation of text in many different languages is done by Natural Language Processing (NLP) a part   
 of ML in which data sets of different language translations are given to train the model.  
-After all this IoT part kicks in as the actual hardware takes care of all the operations and algorithms to
+After all this IoT part kicks in as the actual hardware takes care of all the operations and algorithms to  
 perform in small computer and can be wear as regular glasses.     
 
 
