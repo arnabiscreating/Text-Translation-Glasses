@@ -1,4 +1,6 @@
-# :book:Text Translation Glasses
+# :book: Text Translation Glasses
+<h2>Abstract</h2>
+
 In this project we are aiming to build a real-time text detection and translation glasses.   
 What we are using :
 - OpenCV
@@ -16,5 +18,6 @@ After all this IoT part kicks in as the actual hardware takes care of all the op
 perform in small computer and can be wear as regular glasses.     
 
 
-<h2 style:"text-align="center":">Project Updates</h2>
+<h2>Project Updates</h2>
+
 >Tessearact-OCR (Output for a clean image) -  
