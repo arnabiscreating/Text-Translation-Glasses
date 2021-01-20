@@ -5,7 +5,7 @@ What we are using :
 - Tesseract OCR
 - Natural language Processing (NLP)
 - Internet of Things (IoT)
-- A Google Colab Link - https://colab.research.google.com/drive/1CXqfqXWVL0yzkF7lYm5rmpzvF4H02M5t?usp=sharing   
+> [A Google Colab Link](https://colab.research.google.com/drive/1CXqfqXWVL0yzkF7lYm5rmpzvF4H02M5t?usp=sharing)   
 
 OpenCV is an open source Computer Vision Library in which we can use many image related operations, in this   
 project it is used to capture and modify real-time text from external camera. The text captured and modified    
@@ -17,4 +17,4 @@ perform in small computer and can be wear as regular glasses.
 
 
 <h2 style:"text-align="center":">Project Updates</h2>
-Tessearact-OCR (Output for a clean image) -  
+>Tessearact-OCR (Output for a clean image) -  
