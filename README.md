@@ -9,14 +9,7 @@ What we are using :
 - Internet of Things (IoT)
 > [A Google Colab Link](https://colab.research.google.com/drive/1CXqfqXWVL0yzkF7lYm5rmpzvF4H02M5t?usp=sharing)   
 
-OpenCV is an open source Computer Vision Library in which we can use many image related operations, in this   
-project it is used to capture and modify real-time text from external camera. The text captured and modified    
-is then processed by Tesseract-OCR to give output as coputer generated text.  
-for actual Translation of text in many different languages is done by Natural Language Processing (NLP) a part   
-of ML in which data sets of different language translations are given to train the model.  
-After all this IoT part kicks in as the actual hardware takes care of all the operations and algorithms to  
-perform in small computer and can be wear as regular glasses.     
-
+OpenCV is an open source Computer Vision Library in which we can use many image related operations, in this project it is used to capture and modify real-time text from external camera. The text captured and modified is then processed by Tesseract-OCR to give output as coputer generated text. For actual Translation of text in many different languages is done by Natural Language Processing (NLP) a part of ML in which data sets of different language translations are given to train the model. After all this IoT part kicks in as the actual hardware takes care of all the operations and algorithms to perform in small computer and can be wear as regular glasses.     
 
 <h2>Project Updates</h2>
 
