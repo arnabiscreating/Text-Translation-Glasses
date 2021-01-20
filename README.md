@@ -14,4 +14,4 @@ This project is an attempt in this direction to build a novel smart glass which 
 
 >[A Google Colab Link](https://colab.research.google.com/drive/1CXqfqXWVL0yzkF7lYm5rmpzvF4H02M5t?usp=sharing) - Here you can try the code.  
 
->Tessearact-OCR (Output for a clean image) -  
+>Tesseract-OCR (Output for a clean image) -  
