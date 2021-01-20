@@ -10,7 +10,7 @@ This project is an attempt in this direction to build a novel smart glass which 
 > Natural language Processing (NLP)  
 > Raspberry Pi and Pi Cam (IoT)**  
 
-<h2>:mega: Project Updates                                               /github/repo-size/:encodeArnab/:Text-Translation-Glasses</h2>
+<h2>:mega: Project Updates</h2>  /github/repo-size/:encodeArnab/:Text-Translation-Glasses
 
 >[A Google Colab Link](https://colab.research.google.com/drive/1CXqfqXWVL0yzkF7lYm5rmpzvF4H02M5t?usp=sharing) - Here you can try the code.  
 
