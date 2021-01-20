@@ -5,10 +5,10 @@ This project is an attempt in this direction to build a novel smart glass which 
  
 <h2>Technologies and Hardware we are using</h2>
 
-> OpenCV
-> Tesseract OCR
-> Natural language Processing (NLP)
-> Raspberry Pi and Pi Cam (IoT)
+> OpenCV  
+> Tesseract OCR  
+> Natural language Processing (NLP)  
+> Raspberry Pi and Pi Cam (IoT)  
 
 <h2>Project Updates</h2>
 
