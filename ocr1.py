@@ -20,12 +20,12 @@ while True:
     gray = cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)
     ret, thresh = cv2.threshold(gray, 15, 255, cv2.THRESH_OTSU, cv2.THRESH_BINARY)
     #gaussian = cv2.GaussianBlur(thresh,(5,5),0)
-    #median = cv2.medianBlur(thresh,ksize = 5)
+    median = cv2.medianBlur(thresh,ksize = 5)
 
 
-    print(pytesseract.image_to_string(thresh))
+    print(pytesseract.image_to_string(median))
 
-    boxes = pytesseract.image_to_boxes(thresh)
+    boxes = pytesseract.image_to_boxes(median)
     height,width = frame.shape[:2]
 
     for box in boxes.splitlines():
