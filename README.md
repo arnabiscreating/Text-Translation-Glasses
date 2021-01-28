@@ -12,3 +12,5 @@ This project is an attempt in this direction to build a novel smart glass which 
 >[A Google Colab Link for OpenCV and Pytesseract code](https://colab.research.google.com/drive/1CXqfqXWVL0yzkF7lYm5rmpzvF4H02M5t?usp=sharing) - Here you can try the code.  
 >[A Google Colab Link for NLP code](https://colab.research.google.com/drive/1nqkB5Lzaol2wcOWUquZqNkUPFWsuv76U#scrollTo=fbE2Bch2JgjB) - Here you can try the code.  
 >[A Google Drive Link for trained dataset and other assets](https://drive.google.com/drive/folders/1vfaMlv54JAJAxx4sMCNPAgkUMvjgI9aN?usp=sharing) - Here you can see the trained modal.    
+
+<h2>:loudspeaker:  Project Illustrations</h2>
