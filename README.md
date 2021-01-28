@@ -16,7 +16,7 @@ This project is an attempt in this direction to build a novel smart glass which 
 <h2>:scroll:  Project Illustrations</h2>
 
 <!--![Illustration1]()-->
-<img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Images/Image_1.png" alt="Illustration1" width="500"/>
-<img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Images/Image_2.png" alt="Illustration2" width="500"/>  
-<img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Images/Image_3.png" alt="Illustration3" width="500"/>  
+<img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Images/Image_1.png" alt="Illustration1" width="450"/><img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Images/Image_2.png" alt="Illustration2" width="450"/>
+<img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Images/Image_3.png" alt="Illustration3" width="450"/>    
+
 [^^](#)
