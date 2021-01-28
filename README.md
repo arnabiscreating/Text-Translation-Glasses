@@ -5,8 +5,8 @@ This project is an attempt in this direction to build a novel smart glass which 
  
 <h2>:computer: Technologies and Hardware we are using</h2>
 
-> <img src=" https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>  
-> <img src=" https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>    
+> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
 **OpenCV  
 Tesseract OCR  
