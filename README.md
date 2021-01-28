@@ -20,10 +20,10 @@ This project is an attempt in this direction to build a novel smart glass which 
 <br>
 <img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Images/Image_1.png" alt="Illustration1"/>      <br>
 > Removing noise from the image using OpenCV and converting it to Text using pyTesseract.   
-<br>
+<br>  <\n>    
 <img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Images/Image_2.png" alt="Illustration2"/>    <br>
 > Translating the text using NLP trained dataset to other languages (here Spanish).      
-<br>
+<br>  <\n>    
 <img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Images/Image_3.png" alt="Illustration3"/>    <br>  
 
-[--------------------------------------**Back to Top**-----------------------------------](#)
+[--------------------------------------------**Back to Top**-------------------------------------------](#)
