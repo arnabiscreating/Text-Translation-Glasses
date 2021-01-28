@@ -33,9 +33,9 @@ This project is an attempt in this direction to build a novel smart glass which 
 <img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Assets/Image_3.png" alt="Illustration3"/>    
 <br>  
 
-> Translating the text using NLP trained dataset to other languages (here Spanish).          
+> Conversion of translated text using GTTS to speech.          
 <br>    
-<img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Assets/Image_4.png" alt="Illustration4"/>    
+<img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Assets/Image_4.png" alt="Illustration4" width="100px"/>    
 <br>  
 
 [----------------------------------------------------**Back to Top**---------------------------------------------------](#)
