@@ -17,5 +17,5 @@ This project is an attempt in this direction to build a novel smart glass which 
 
 ![Illustration1](https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Images/Image_1.png)
 ![Illustration1](https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Images/Image_2.png)
-![Illustration1](http://url/to/img.png)
+![Illustration1](https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Images/Image_3.png)
 [^^](#)
