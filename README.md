@@ -35,7 +35,7 @@ This project is an attempt in this direction to build a novel smart glass which 
 
 > Conversion of translated text using GTTS to speech.          
 <br>    
-<img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Assets/Image_4.png" alt="Illustration4" width="100px"/>    
+<img src="https://github.com/encodeArnab/Text-Translation-Glasses/blob/main/Assets/Image_4.png" alt="Illustration4" width="1000px"/>    
 <br>  
 
 [----------------------------------------------------**Back to Top**---------------------------------------------------](#)
