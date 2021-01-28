@@ -15,5 +15,7 @@ This project is an attempt in this direction to build a novel smart glass which 
 
 <h2>:scroll:  Project Illustrations</h2>
 
-
+![Illustration1](http://url/to/img.png)
+![Illustration1](http://url/to/img.png)
+![Illustration1](http://url/to/img.png)
 [^^](#)
